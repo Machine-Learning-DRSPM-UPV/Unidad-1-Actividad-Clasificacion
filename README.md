@@ -1,6 +1,6 @@
 # Unidad-1-Actividad-2
 
-A continuación se presentan algunas actividades que se deberán realizar para el día *10/02/2019*, las *06:59:00* cuales se deberán subir a la plataforma \textbf{github classroom}. Siga las instrucciones y/o conteste lo que se pide.\\
+A continuación se presentan algunas actividades que se deberán realizar para el día *10/02/2019*, las *06:59:00* cuales se deberán subir a la plataforma *github classroom*. Siga las instrucciones y/o conteste lo que se pide.
 
 * Try Support Vector Machine regressor (cklearn.svm.SVR), with various hyperparameters such as kernel="linear" (with various values for the C hyperparameter) or kernel="rbf" (with various values for the C and gamma hyperparameters). Don't worry about what these hyperparameters mean for now. How does the best SVR predictor perform?.
 * Try replacing GridSearchCV with RandomizedSearchCV.
@@ -11,13 +11,12 @@ A continuación se presentan algunas actividades que se deberán realizar para e
 
 * Automatically explore some preparation option using GridSearch.
 
-* Using the Breast cancer wisconsin (diagnostic) dataset, and following \textbf{the checklist} for ML projects make next:
+* Using the Breast cancer wisconsin (diagnostic) dataset, and following *the checklist* for ML projects make next:
 
   * Try linear regression, polynomial regression, Decision Tree and Support Vector Machine to classify malignant or benign cancer.
   * You should use pipelines, grid search, random search and k-fold cross validation to find the best model.
   * Make a table with the comparison of models performances.
   * Make a table with the comparison of algorithms performances (time consuming and computational time).
-\end{itemize}
 
 [Clue:](http://bit.ly/2WFFYxk)
 
