@@ -1,6 +1,6 @@
 # Unidad-1-Actividad-2
 
-A continuación se presentan algunas actividades que se deberán realizar para el día *10/02/2019*, las *06:59:00* cuales se deberán subir a la plataforma *github classroom*. Siga las instrucciones y/o conteste lo que se pide.
+A continuación se presentan algunas actividades las cuales se deberán subir a la plataforma *github classroom*. Siga las instrucciones y/o conteste lo que se pide.
 
 * Try Support Vector Machine regressor (cklearn.svm.SVR), with various hyperparameters such as kernel="linear" (with various values for the C hyperparameter) or kernel="rbf" (with various values for the C and gamma hyperparameters). Don't worry about what these hyperparameters mean for now. How does the best SVR predictor perform?.
 * Try replacing GridSearchCV with RandomizedSearchCV.
